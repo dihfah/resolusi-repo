@@ -1,7 +1,7 @@
 resolusiku tahun 2021 dalam hal programming yaitu
 membuat data diri menggunakan website yang di kerjakan endiri
-mengerti dasar" programing
+mengerti dasar" programing ( sudah selesai )
 menyelesaikan bahsa pyton dan js
-menyelesaikan kursus di harvard (edX)
 mengetahui saya akan masuk jurusan kuliah di TI atau CS
 mencari beasiswa kuliah di luar atau dalam negeri
+mempelajari hal baru mengenai pemograman
